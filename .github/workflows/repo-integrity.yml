@@ -1,0 +1,25 @@
+name: repo-integrity
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  repo-integrity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Verify governed repository shell
+        run: |
+          test -s README.md
+          test -s LICENSE
+          test -s .github/workflows/repo-integrity.yml
