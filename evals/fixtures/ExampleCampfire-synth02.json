@@ -1,0 +1,37 @@
+{
+  "id": "synth02",
+  "subreddit": "ExampleCampfire",
+  "rank": 4,
+  "title": "What's the weirdest thing you've found in a used book?",
+  "author": "fake_user_echo",
+  "permalink": "https://www.reddit.com/r/ExampleCampfire/comments/synth02/example/",
+  "url": "https://www.reddit.com/r/ExampleCampfire/comments/synth02/example/",
+  "created_utc": "2026-01-05T12:00:00Z",
+  "is_self": true,
+  "selftext": "",
+  "comments": [
+    {
+      "id": "csynth021",
+      "author": "fake_user_foxtrot",
+      "body": "A pressed four-leaf clover and a receipt for one (1) pickle, dated 1987."
+    },
+    {
+      "id": "csynth022",
+      "author": "fake_user_golf",
+      "body": "A bookmark that said 'don't read chapter 9'. I read chapter 9. It was fine."
+    },
+    {
+      "id": "csynth023",
+      "author": "fake_user_hotel",
+      "body": "lol same energy as the pickle receipt"
+    },
+    {
+      "id": "csynth024",
+      "author": "fake_user_india",
+      "body": "Nothing that weird, but a whole handwritten recipe for bread inside a cookbook about fish."
+    }
+  ],
+  "fetched_at": "2026-01-08T09:00:00Z",
+  "exercises": "question post with an empty body; the Discussion carries everything",
+  "notes": "Invented example. Exercises the ADR-0002 case where content_pt should be null."
+}

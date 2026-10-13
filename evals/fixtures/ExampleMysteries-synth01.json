@@ -1,0 +1,37 @@
+{
+  "id": "synth01",
+  "subreddit": "ExampleMysteries",
+  "rank": 1,
+  "title": "The lighthouse keeper's logbook skips three days in 1911",
+  "author": "fake_user_alpha",
+  "permalink": "https://www.reddit.com/r/ExampleMysteries/comments/synth01/example/",
+  "url": "https://www.reddit.com/r/ExampleMysteries/comments/synth01/example/",
+  "created_utc": "2026-01-05T12:00:00Z",
+  "is_self": true,
+  "selftext": "SYNTHETIC FIXTURE - this post is invented for the public repo. My town's museum has the logbook of a lighthouse that closed decades ago. Every day from 1903 to 1922 has an entry, except three days in March 1911. The pages are not torn out; the dates simply jump from the 11th to the 15th. The museum says nobody knows why. Has anyone seen something like this in other logbooks?",
+  "comments": [
+    {
+      "id": "csynth011",
+      "author": "fake_user_bravo",
+      "body": "Probably the keeper was sick and nobody covered for him. Happened a lot."
+    },
+    {
+      "id": "csynth012",
+      "author": "fake_user_charlie",
+      "body": "Or he wrote it on loose sheets and they got lost. I'm not sure, but that's what I'd guess."
+    },
+    {
+      "id": "csynth013",
+      "author": "fake_user_alpha",
+      "body": "The museum checked, there are no loose sheets in the box."
+    },
+    {
+      "id": "csynth014",
+      "author": "fake_user_delta",
+      "body": "Ah yes, the classic three-day ghost vacation. Very spooky. /s"
+    }
+  ],
+  "fetched_at": "2026-01-08T09:00:00Z",
+  "exercises": "long narrative self-post with competing explanations and one sarcastic reply",
+  "notes": "Invented example. Exercises attribution (the author replies once) and a hedge that must survive translation."
+}

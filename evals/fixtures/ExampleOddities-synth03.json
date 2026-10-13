@@ -1,0 +1,32 @@
+{
+  "id": "synth03",
+  "subreddit": "ExampleOddities",
+  "rank": 9,
+  "title": "Photo: a road sign pointing to a town that does not exist",
+  "author": "fake_user_juliet",
+  "permalink": "https://www.reddit.com/r/ExampleOddities/comments/synth03/example/",
+  "url": "https://i.redd.it/example-synthetic.jpg",
+  "created_utc": "2026-01-05T12:00:00Z",
+  "is_self": false,
+  "selftext": "",
+  "comments": [
+    {
+      "id": "csynth031",
+      "author": "fake_user_kilo",
+      "body": "It's a paper town. Map makers used to invent places to catch copiers."
+    },
+    {
+      "id": "csynth032",
+      "author": "fake_user_lima",
+      "body": "Your comment was removed due to being low-effort in nature."
+    },
+    {
+      "id": "csynth033",
+      "author": "fake_user_mike",
+      "body": "Pretty sure that sign is photoshopped, the font is wrong for that state."
+    }
+  ],
+  "fetched_at": "2026-01-08T09:00:00Z",
+  "exercises": "image post with no body; a moderator-removal notice in the Discussion",
+  "notes": "Invented example. Exercises an image post and a removal notice that is an event, not a speaker."
+}

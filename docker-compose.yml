@@ -1,0 +1,10 @@
+services:
+  bot:
+    build: .
+    restart: unless-stopped
+    # Secrets are supplied at run time and never baked into the image.
+    env_file: .env
+    environment:
+      DATABASE_PATH: /data/story_finder.db
+    volumes:
+      - ./data:/data
